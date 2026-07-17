@@ -115,9 +115,9 @@ Coming soon! Will share insights on:
 ## 🤝 Let's Connect
 
 - 🐙 [GitHub](https://github.com/deyjaydeep40-arch)
-- 📧 Email: [Contact]
-- 💼 LinkedIn: [Profile]
-- 🐦 Twitter: [@YourHandle]
+
+- 💼 LinkedIn: https://www.linkedin.com/in/jaydeep-dey-a231a237b
+
 
 ## 💬 Open to
 
@@ -147,7 +147,7 @@ Coming soon! Will share insights on:
 ## 🚀 Deployment
 
 This portfolio is deployed and accessible at:
-- **Live URL**: [Your portfolio URL]
+
 - **GitHub Pages**: Continuous deployment enabled
 - **Domain**: Custom domain configured
 
@@ -175,7 +175,7 @@ This portfolio and all projects are created with passion and shared under MIT Li
 
 Have a project in mind? Want to collaborate? Drop me a message!
 
-- **Email**: [your-email@example.com]
+- **Email**: workwithjaydeepdey@gmail.com
 - **GitHub**: [@deyjaydeep40-arch](https://github.com/deyjaydeep40-arch)
 - **Form**: Fill out the contact form on the portfolio
 
