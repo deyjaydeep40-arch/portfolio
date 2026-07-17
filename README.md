@@ -41,6 +41,8 @@ Smart expense management application with:
 - **Status**: Complete & Deployed
 - **Tech**: HTML5, CSS3, Vanilla JavaScript
 
+ALL PROJECTS CAN BE VIEWED THROUGH MY PORTFOLIO WHERE YOU CAN SEE MY MANY CONTRIBUTIONS
+
 ## 🛠️ Skills & Tech Stack
 
 ### Frontend
